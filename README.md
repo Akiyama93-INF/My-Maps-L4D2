@@ -9,5 +9,3 @@ If you want to put this file in your Hammer world editor folder, do the followin
 5-Look for the folder and since you found the .vmf file then you can see all my maps.
 
 Enjoy :)
-
-Translated with DeepL.com (free version)
